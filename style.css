@@ -341,3 +341,7 @@ label {
 li {
     list-style-type: none;
 }
+
+.spacer {
+	clear: both;
+}
